@@ -14,3 +14,6 @@ en prompt "mata in pinkod"
 						fel nr 3
 						du har inte åtkomst
 						Stopp
+
+
+en riktigt ful kommentar
