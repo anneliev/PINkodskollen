@@ -17,3 +17,4 @@ en prompt "mata in pinkod"
 
 
 en riktigt ful kommentar
+en till fuling
