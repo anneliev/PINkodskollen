@@ -16,7 +16,3 @@ en prompt "mata in pinkod"
 						Stopp
 
 
-en riktigt ful kommentar
-en till fuling
-ännu en
-en till
